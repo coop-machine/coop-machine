@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+
+coop-machine 
+
+is a virtual machine dedicated to cooperative processes 
 
 <!--
 **coop-machine/coop-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
