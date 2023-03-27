@@ -2,7 +2,9 @@
 
 coop-machine 
 
-is a virtual machine dedicated to cooperative processes 
+is a virtual machine dedicated to cooperative processes and cooperative processors.
+
+It has three components : a development environment, a validation tool, and a runtime environment.
 
 <!--
 **coop-machine/coop-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
