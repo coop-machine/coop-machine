@@ -28,6 +28,7 @@ This tool requires Postgresql (Version 15) and access to the user 'postgres'
   
 * Fill the references tables (from table R1 to R10)
 * fill the integration tables (from table R11 to R15)
+  you can check the comments for more information about these tables and their attributs  (either from the tables.sql and procedures.sql scripts or directly from PSQL ([see COMMENTS](https://www.postgresql.org/docs/current/sql-comment.html)
 
 ## Runtime environment
 
