@@ -26,10 +26,17 @@ This tool requires Postgresql (Version 15) and access to the user 'postgres'
   
 ### How to use
   
-* Fill the references tables (from table R1 to R10)
+* fill the references tables (from table R1 to R10)
 * fill the integration tables (from table R11 to R15)
-  you can check the comments for more information about these tables and their attributs  (either from the tables.sql and procedures.sql scripts or directly from PSQL ([see COMMENTS](https://www.postgresql.org/docs/current/sql-comment.html)
-
+  you can check the comments for more information about these tables and their attributs  (either from the tables.sql and procedures.sql scripts or directly from PSQL ([see COMMENTS](https://www.postgresql.org/docs/current/sql-comment.html))
+* start the validation procedure using the following command : 'SELECT validation();'
+* check table R17 that log every error that occured during the procedure 
+  
+  
+ ### Test datasets
+  
+we provides 2 scripts for testing purpose each inserting a dataset : 'correct_dataset.sql' and 'incorrect_dataset.sql'
+  
 ## Runtime environment
 
 <!--
