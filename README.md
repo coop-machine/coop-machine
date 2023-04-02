@@ -16,6 +16,14 @@ This tool requires Postgresql (Version 15) and access to the user 'postgres'
 
 ### Installation
 
+* run 'psql' as the user 'postgres'
+* create the user 'coop'
+* create the database 'coop' and grant its ownership to the user 'coop'
+* connect to the database 'coop' as the user 'coop'
+* run the following two scripts : tables.sql and procedures.sql (e.g. using the following command : '\i <script path>'
+  
+  The validation tool is now ready !
+
 ## Runtime environment
 
 <!--
