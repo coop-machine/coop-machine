@@ -23,6 +23,11 @@ This tool requires Postgresql (Version 15) and access to the user 'postgres'
 * run the following two scripts : tables.sql and procedures.sql (e.g. using the following command : '\i <script path>'
   
   The validation tool is now ready !
+  
+### How to use
+  
+* Fill the references tables (from table R1 to R10)
+* fill the integration tables (from table R11 to R15)
 
 ## Runtime environment
 
