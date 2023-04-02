@@ -8,6 +8,10 @@ It has three components : a development environment, a validation tool, and a ru
 
 ## development environment
 
+## validation tool
+
+## runtime environment
+
 <!--
 **coop-machine/coop-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
