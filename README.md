@@ -35,7 +35,7 @@ This tool requires Postgresql (Version 15) and access to the user 'postgres'
   
  ### Test datasets
   
-we provides 2 scripts for testing purpose each inserting a dataset : 'correct_dataset.sql' and 'incorrect_dataset.sql'
+we provides 2 scripts for testing purpose each inserting a dataset : 'dataset_correct.sql' and 'daraset_incorrect.sql'
   
 ## Runtime environment
 
