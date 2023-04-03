@@ -2,7 +2,7 @@
 
 # Coop-machine 
 
-coop-machine is a virtual machine dedicated to cooperative processes and cooperative processors.
+coop-machine is a virtual machine dedicated to cooperative processes and cooperating processors.
 
 It has three components : a development environment, a validation tool, and a runtime environment.
 
